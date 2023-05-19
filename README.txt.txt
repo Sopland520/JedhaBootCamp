@@ -2,8 +2,7 @@ Nom : XIANG
 
 Prénom : Christian
 
-Projet Jedha : Essential Cybersécurité 
+Projet Jedha : Full Stack Cybersécurité BLOC 2 NETWORK
 
 adresse mail : htcxg@hotmail.fr
 
-LIEN vidéo présentation : https://share.vidyard.com/watch/NZJsXBDQ5BKJnbBBX1kxmL?
